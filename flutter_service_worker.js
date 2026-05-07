@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "f84b9bcfed4514bb64046c15503ae018",
-"assets/AssetManifest.bin.json": "8ed8a6cc981e519c8d76d95a2d169a4c",
-"assets/AssetManifest.json": "23e919e3f7fb881164a518aa1a3625ca",
+const RESOURCES = {"assets/AssetManifest.bin": "ef8ee8f7fee37e9254cd062500ad4ab5",
+"assets/AssetManifest.bin.json": "512555490d16c781c0f4ffd16fb457a8",
+"assets/AssetManifest.json": "328ef4197b0be1df946cae7b9fbb236c",
 "assets/assets/analise.png": "bca24a5edda2e85d821738a138e394ca",
 "assets/assets/C%25C3%25B3digo%2520de%2520Cores.png": "400525a1aab6c6b14b3c3c6148921de5",
 "assets/assets/carregador.png": "6f498ca89f5862cce5c6e76ad691bdd7",
@@ -18,6 +18,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "f84b9bcfed4514bb64046c15503ae018
 "assets/assets/solar.png": "6ad2e02c9fdd9a27bd213a6f473c8151",
 "assets/assets/SPDA.png": "4d233fffcd110a12f57ab7b940f18d87",
 "assets/assets/termografia.png": "30be700815a56e613acb3cd17c448193",
+"assets/assets/web/solar_web.jpg": "222a4c115fdfbcd4a80bb45a43123b85",
+"assets/assets/web/SPDA_web.jpg": "4ff7d65283a31257b278c357b182e14f",
 "assets/assets/whatsapp.png": "79cd987651a84ceb20908b64ee77ac31",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "a863748bc5dd9a57653e5a5d5fa7e075",
@@ -43,14 +45,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "f84b9bcfed4514bb64046c15503ae018
 "canvaskit/skwasm_heavy.wasm": "8034ad26ba2485dab2fd49bdd786837b",
 "favicon.png": "0694519a880565735c35f3c405ccaa3b",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
-"flutter_bootstrap.js": "51e1de84701f21433c3d77bf010b5473",
+"flutter_bootstrap.js": "85078598609f3c9c9facd1c46d7a16a0",
 "icons/Icon-192.png": "4d89518739126bb328afded245901fde",
 "icons/Icon-512.png": "617ff37c7b60433bcbe7a91a7d6773ed",
 "icons/Icon-maskable-192.png": "4d89518739126bb328afded245901fde",
 "icons/Icon-maskable-512.png": "617ff37c7b60433bcbe7a91a7d6773ed",
 "index.html": "c62ed95d7896be2f94013c0467031dd8",
 "/": "c62ed95d7896be2f94013c0467031dd8",
-"main.dart.js": "e44da718aaea3a37a3d275614643fe23",
+"main.dart.js": "25f3c8b7abc8ea4cd1c52a766cb99a6c",
 "manifest.json": "6cc2346c0372c784520fa8b8e640d0ac",
 "version.json": "791991d2b7ea5457ac2ed9d21fc3a074"};
 // The application shell files that are downloaded before a service worker can
